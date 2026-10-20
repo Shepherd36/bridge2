@@ -1,6 +1,6 @@
 module tonconnect-bridge
 
-go 1.22.0
+go 1.24
 
 require (
 	github.com/kevinms/leakybucket-go v0.0.0-20200115003610-082473db97ca
@@ -14,7 +14,7 @@ require (
 	github.com/andybalholm/brotli v1.1.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
-	github.com/klauspost/compress v1.17.6 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/prometheus/client_model v0.6.1 // indirect
